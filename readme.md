@@ -3,7 +3,8 @@
 Copyright © Written by [Yariv Gilad](https://yarivgilad.com) 
 <hr>
 
-
+//  https://developers.google.com/maps/documentation/javascript/adding-a-google-map#map  //
+//  https://developers.google.com/earth-engine/guides                                    //
 <--------------------------------------------     
 `Map out those lifecycle methods!!!`   
 -------------------------------------------->

@@ -24,6 +24,9 @@ export default function App() {
         break;
         case "paris":
           setLatlng({ lat: 48.864716, lng: 2.349014 });
+          break;
+        case "uluru":
+          setLatlng({ lat: -25.344, lng: 131.031 });
         break;
           default:
           alert("Location not supported");
@@ -42,6 +45,7 @@ export default function App() {
           <button onClick={() => reposition("tel aviv")}>Tel Aviv</button>
           <button onClick={() => reposition("london")}>London</button>
           <button onClick={() => reposition("paris")}>Paris</button>
+          <button onClick={() => reposition("uluru")}>Uluru</button>
           <input
             ref={input}
             type="number"
