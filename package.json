@@ -4,12 +4,13 @@
   "description": "",
   "keywords": [],
   "author": {
-    "name": "Yariv Gilad",
-    "email": "yariv.gilad@gmail.com",
-    "url": "https://yarivgilad.com"
+    "name": "Adi Booker",
+    "email": "adibaba@gmail.com",
+    "url": " https://adibooker.myportfolio.com/ "
   },
   "main": "src/index.js",
   "dependencies": {
+    "@googlemaps/js-api-loader": "^1.16.6",
     "react": "18.2.0",
     "react-dom": "18.2.0"
   },

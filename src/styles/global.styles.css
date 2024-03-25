@@ -146,6 +146,25 @@ button:active {
   font-size: 2.5rem;
 }
 
+.markerBox {
+  display: flex;
+  align-items: center;
+  margin-bottom: 3vh;
+}
+
+.markerBox input {
+  margin-right: 1.5vh;
+}
+
+.markerBox p {
+  margin-right: 1.5vh;
+ font-size: 2rem;
+}
+
+.markerBox button {
+  margin-left: 1.5vh;
+}
+
 .hbox {
   display: flex;
 }
